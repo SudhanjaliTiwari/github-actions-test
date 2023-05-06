@@ -1,0 +1,29 @@
+name: Ali
+age: 20
+address: "jdfj:djfj"
+active: true
+key:
+    key: value
+    key2: value2
+    key3: 
+        key: value 
+        key2: value2
+jsonObject: {key: value, key2: value2,key3: value3}
+array:
+    - item1
+    - item2
+    - {key: value} 
+jsonArray: [item1, item2]
+objectArray: 
+    - key: value
+      keyy: value22
+    - key2: value2
+      keyyy: valueee
+longText: >_
+    jsfjsdfj dfjdfdfj dfvjdfdfj dfjdfdfj
+    djdfdfjg dvjdgdfj dfvjdfdfgj
+    dfkdfdfj dfvjdfdfgjf       
+
+
+
+    
