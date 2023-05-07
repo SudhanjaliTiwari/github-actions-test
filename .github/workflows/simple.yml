@@ -16,5 +16,5 @@ jobs:
         run: |
           import platfrom
           print
-          (platforn.processor())
+          (platform.processor())
         shell: paython
