@@ -12,3 +12,9 @@ jobs:
         run: |
           node -v 
           npm -v
+      - name: paython command 
+        run: |
+          import platfrom
+          print
+          (platforn.processor())
+        shell: paython
